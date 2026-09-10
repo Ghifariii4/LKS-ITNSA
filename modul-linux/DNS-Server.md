@@ -128,6 +128,8 @@ dig lks.id
 
 
 output:
+
+
 ![alt text](/modul-linux/image/output1.png)
 
 ![alt text](/modul-linux/image/output2.png)
