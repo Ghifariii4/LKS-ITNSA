@@ -7,14 +7,14 @@ Halo, jadi repo ini ku buat sebagai dokumentasi untuk LKS ITNSA. jadi kalian bis
 
 Repositori ini dibagi menjadi beberapa modul utama sesuai dengan standar kompetensi LKS:
 
-### 🟢 Modul A: Windows Server 2022 Environment
+### Modul A: Windows Server Environment
 On Progress, Ditunggu yaa
 
-### 🔵 Modul B: Cisco Network Configuration
+### Modul B: Cisco Network Configuration
 On Progress, Ditunggu yaa
 
-### 🟠 Modul C: Linux Server Administration (Debian/Ubuntu)
-Fokus pada sistem operasi Linux.
+### Modul C: Linux Server Environment
+Fokus pada sistem operasi Linux terutama Debian/Ubuntu.
 - [Konfigurasi DNS Server (Bind9)](modul-linux/DNS-Server.md)
 
 
