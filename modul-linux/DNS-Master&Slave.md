@@ -1,4 +1,4 @@
-# Modul C: Konfigurasi DNS Master-Slave (Debian 13)
+# Konfigurasi DNS Master-Slave (Debian 13)
 
 ## Deskripsi Singkat
 Konfigurasi DNS Master-Slave digunakan untuk *redundancy* (ketersediaan tinggi). Jika server DNS utama (Master) mati atau sibuk, server DNS cadangan (Slave) akan mengambil alih tugas melayani permintaan dari *client*. Zone transfer memungkinkan Slave menyalin data DNS dari Master secara otomatis.
@@ -77,7 +77,7 @@ $TTL    604800
 @       IN      NS      ns2.lks.id.
 
 1       IN      PTR     ns1.lks.id.
-3       IN      PTR     ns2.lks.id.
+3       IN      PTR     
 ```
 
 ### Langkah 4: Restart BIND9 di Master
