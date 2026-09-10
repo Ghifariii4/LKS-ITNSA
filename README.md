@@ -26,7 +26,7 @@ Fokus pada sistem operasi Linux terutama Debian/Ubuntu.
 2. Buka folder modul yang ingin dipelajari.
 3. Ikuti *step-by-step* konfigurasi. Sangat disarankan untuk mempraktikkannya langsung menggunakan **VMware/VirtualBox** (untuk server) dan **Cisco Packet Tracer** (untuk jaringan).
 
-## REPO LIB SOURCE LIST
+## SOURCE LIST DEBIAN 13
 
 ```
 deb http://deb.debian.org/debian/ stable main contrib non-free non-free-firmware
