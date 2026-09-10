@@ -76,8 +76,8 @@ $TTL    604800
 @       IN      NS      ns1.lks.id.
 @       IN      NS      ns2.lks.id.
 
-1       IN      PTR     192.168.10.1
-3       IN      PTR     192.168.10.3
+1       IN      PTR     ns1.lks.id.
+3       IN      PTR     ns2.lks.id.
 ```
 
 ### Langkah 4: Restart BIND9 di Master
