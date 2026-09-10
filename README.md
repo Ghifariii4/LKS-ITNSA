@@ -3,7 +3,7 @@
 Halo, jadi repo ini ku buat sebagai dokumentasi untuk LKS ITNSA. jadi kalian bisa baca-baca dan belajar juga tentang ITNSA.
 
 
-## 🗂️ Struktur Modul Pembelajaran
+## Struktur Modul Pembelajaran
 
 Repositori ini dibagi menjadi beberapa modul utama sesuai dengan standar kompetensi LKS:
 
@@ -18,7 +18,7 @@ Fokus pada sistem operasi Linux terutama Debian/Ubuntu.
 - [Konfigurasi DNS Server (Bind9)](modul-linux/DNS-Server.md)
 
 
-## 🚀 Cara Menggunakan Repositori Ini
+## Cara Menggunakan Repositori Ini
 1. Clone repositori ini ke *local machine* kamu:
    ```bash
    git clone https://github.com/username/lks-itnsa-docs.git
@@ -34,7 +34,7 @@ deb http://security.debian.org/debian-security stable-security main contrib non-
 deb http://deb.debian.org/debian/ stable-updates main contrib non-free non-free-firmware
 ```
 
-## 🤝 Kontribusi
+## Kontribusi
 Bagi yang ingin menambahkan dokumentasi baru, memperbaiki *typo*, atau memperbarui konfigurasi, silakan buat *Pull Request*.
 
 ---
