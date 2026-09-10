@@ -126,6 +126,15 @@ nslookup 192.168.10.1
 dig lks.id
 ```
 
+
+output:
+![alt text](/modul-linux/image/output1.png)
+
+![alt text](/modul-linux/image/output2.png)
+
+![alt text](/modul-linux/image/output3.png)
+
+
 ---
 
 ## Troubleshooting
