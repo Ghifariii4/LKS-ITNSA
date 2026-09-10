@@ -21,7 +21,7 @@ Fokus pada sistem operasi Linux terutama Debian/Ubuntu.
 ## Cara Menggunakan Repositori Ini
 1. Clone repositori ini ke *local machine* kamu:
    ```bash
-   git clone https://github.com/username/lks-itnsa-docs.git
+   git clone https://github.com/Ghifariii4/LKS-ITNSA.git
    ```
 2. Buka folder modul yang ingin dipelajari.
 3. Ikuti *step-by-step* konfigurasi. Sangat disarankan untuk mempraktikkannya langsung menggunakan **VMware/VirtualBox** (untuk server) dan **Cisco Packet Tracer** (untuk jaringan).
