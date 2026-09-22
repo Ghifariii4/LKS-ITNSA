@@ -12,14 +12,15 @@ To check the database suffix, once the server is running, user `ldapsearch` to r
 
 ```bash
 ldapsearch -x -LLL -s base -b "" namingContexts
+```
+output:
 
-`output :`
-
+```bash 
 dn:
 
 namingContexts: dc=example,dc=id
-```
 
+```
 
 ## Tools
 After the above installation, two groups of tools will be available on your system:
