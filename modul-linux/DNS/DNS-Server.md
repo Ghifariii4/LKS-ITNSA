@@ -130,11 +130,11 @@ dig lks.id
 output:
 
 
-![alt text](/modul-linux/image/output1.png)
+![alt text](/modul-linux/DNS/image/output1.png)
 
-![alt text](/modul-linux/image/output2.png)
+![alt text](/modul-linux/DNS/image/output2.png)
 
-![alt text](/modul-linux/image/output3.png)
+![alt text](/modul-linux/DNS/image/output3.png)
 
 
 ---
