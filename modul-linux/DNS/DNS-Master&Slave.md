@@ -148,5 +148,5 @@ journalctl -u bind9 -f
    - Jika masih mendapatkan balasan (berarti dibalas oleh VM 2 Slave), maka konfigurasi Master-Slave **BERHASIL!**
 
    output:
-   ![alt text](/modul-linux/image/output5.png)
+   ![alt text](/modul-linux/DNS/image/output5.png)
 
