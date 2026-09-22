@@ -15,7 +15,7 @@ On Progress, Ditunggu yaa
 
 ### Modul C: Linux Server Environment
 Fokus pada sistem operasi Linux terutama Debian/Ubuntu.
-- [Konfigurasi DNS Server (Bind9)](modul-linux/DNS-Server.md)
+- [Konfigurasi DNS Server (Bind9)](modul-linux/DNS/)
 
 
 ## Cara Menggunakan Repositori Ini
