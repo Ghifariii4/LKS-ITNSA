@@ -140,7 +140,7 @@ journalctl -u bind9 -f
    ```
 2. Lakukan `nslookup lks.id` dari CMD/Terminal client.
    output:
-   ![alt text](/modul-linux/image/output4.png)
+   ![alt text](/modul-linux/DNS/image/output4.png)
 
 3. **Uji Redundansi:** 
    - Matikan *service* BIND9 di VM 1 Master (`systemctl stop bind9`).
